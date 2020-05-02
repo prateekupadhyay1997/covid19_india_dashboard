@@ -7,6 +7,5 @@ plotly
 folium
 matplotlib
 numpy
-bs4
 requests
 PrettyTable
