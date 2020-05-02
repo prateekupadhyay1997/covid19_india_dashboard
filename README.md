@@ -1,18 +1,19 @@
-# covid19_india_dashboard
+**covid19_india_dashboard**
+
 Voila COVID19 Dashboard for Statewise daily updates and analysis on Covid19 cases in India.
 It contains a representation on the map of India which contains Statewise Confirmed Cases,Death Cases and death rate updated
 on daily basis as per official websites of Government of India.
 
 **Link to Dashboard** : https://covid19indi.herokuapp.com/
 
-Tools Used:
+**Tools Used**:
 1. Jupyter Notebook
 2. Voila 
 
-Language :
+**Language** :
 Python
 
-Packages Used:
+**Packages Used**:
 1.pandas
 2.numpy
 3.plotly
@@ -20,3 +21,5 @@ Packages Used:
 5.BeauitifulSoup
 6.folium
 7.PrettyTable
+
+Deployed on **Herokuapp**
