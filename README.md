@@ -23,5 +23,8 @@ Python
 7.PrettyTable
 
 Deployed on **Herokuapp**
+To understand about how to deploy jupyter notebook on HerokuApp follow the instructions given in above link.
+
 **Link** : https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html
-To understand about how to deploy jupyter notebook on herokuApp follow the instructions given in above link.
+
+
